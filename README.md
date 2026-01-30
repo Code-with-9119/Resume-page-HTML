@@ -1,5 +1,9 @@
 # HTML Resume Page Assignment
 
+## Preview Project
+<img width="1900" height="1590" alt="127 0 0 1_5500_resume-page html" src="https://github.com/user-attachments/assets/f28436dc-2f42-4ab4-900a-2cbdd64d2a7a" />
+
+
 ## Project Overview
 This project is a single-page resume website created using HTML5. The main goal of this assignment is to understand and use semantic HTML tags such as header, main, and footer.
 
