@@ -31,4 +31,4 @@ I have used the footer tag to create sections for:
 3. View the resume page.
 
 ## Author
-Krish Varma
+Gajanan Mundkar
